@@ -1,5 +1,10 @@
 # my-preact-project
 
+## Features added
+Update name
+
+Ticking clock
+
 ## CLI Commands
 
 ``` bash
